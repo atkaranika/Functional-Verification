@@ -1,0 +1,46 @@
+x1+x4
+x1+x3bar+x8bar
+x1+x8+x12
+x2+x11
+x7bar+x3bar+x9
+x7bar+x8+x9bar
+x7+x8+x10bar
+x7+x10+x12bar
+
+
+x1+x2+x3
+x4+x5+x6
+x1+x2+x3bar
+x4bar+x5+x6
+x1+x2+x3bar
+x4+x5bar+x6bar
+
+x1bar+x2
+x1+x2
+x1+x3
+x1+x4
+
+x1bar+x2
+x1bar+x3
+x1+x4
+x1+x5
+x2bar+x3bar
+x1+x6
+
+x1bar+x2bar
+x1bar+x3
+x3bar+x4bar
+x2+x4+x5
+x5bar+x6+x7bar
+x2+x7+x8
+x8bar+x9bar
+x8bar+x10
+x9+x10bar+x11
+x10bar+x12bar
+x11bar+x12
+
+// unsat //
+x1 + x2
+x1bar + x2bar
+x1 + x2bar
+x1bar + x2  
